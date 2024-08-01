@@ -52,7 +52,7 @@ list();
      break;
 
  case "x":
-	 
+	 kb.close();
 		 return;	
 	}
 	}
